@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Pavan7411
-- 👀 I’m interested in learning Python and Neural Network Programming.
-- 🌱 I’m currently learning Python in depth. 
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me pchawhan8@gmail.com
 
